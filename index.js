@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = "البرفكس"
-const developers = "ايديك"
+const prefix = "!"
+const developers = "754773557950677003"
 
 ////////
 
